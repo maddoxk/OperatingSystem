@@ -9,7 +9,7 @@ mov dl,al ;move the integer entered by the user, into dl
 
 HOW TO COMPILE AND BOOT:
 
-requirments: nasm, Bochs
+requirments: [nasm](https://www.nasm.us/pub/nasm/releasebuilds/2.15.05/), [Bochs](http://bochs.sourceforge.net/getcurrent.html) 
 
 in a console type:
 
